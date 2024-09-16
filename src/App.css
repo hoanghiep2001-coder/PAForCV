@@ -89,6 +89,8 @@
 
 .content {
   min-width: 100px;
+  font-size: 24px;
+  border-bottom: 1px dotted   rgb(240, 240, 50);
 }
 
 .sub-list {
@@ -104,8 +106,8 @@
 }
 
 .sub-item-dev {
-  width: 75px;
-  max-width: 75px;
+  width: 85px;
+  max-width: 85px;
 }
 
 .link {

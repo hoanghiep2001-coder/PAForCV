@@ -1,3 +1,18 @@
+# Cách sử dụng:
+
+### `Bước 1:`
+
+**Note: Tải node_modules về project trước với lệnh `npm i`.**
+
+Tải các bản PA hiệu quả được các UA tổng hợp trong [https://docs.google.com/spreadsheets/d/19aFlJ7EOPPHF_Xhp9iO0SgnTKJpQL4uzWhnS0FjriJM/edit?gid=2066067015#gid=2066067015](https://docs.google.com/spreadsheets/d/19aFlJ7EOPPHF_Xhp9iO0SgnTKJpQL4uzWhnS0FjriJM/edit?gid=2066067015#gid=2066067015) vào folder `BestPA` trong folder `public`.
+
+### `Bước 2:`
+
+Thêm các path vào file `data.js` trong folder `src`.
+Sau đó commit lại code và push lên git là được.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

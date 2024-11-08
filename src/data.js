@@ -19,8 +19,8 @@ const BestPA = [
             },
 
             {
-                path: "/PAForCV/BilliardPuzzle_Playable_Op10.html",
-                name: "BilliardPuzzle_Playable_Op10",
+                path: "/PAForCV/BilliardPuzzle_Playable_Op12.html",
+                name: "BilliardPuzzle_Playable_Op12",
                 dev: "",
                 impression: "49.647",
                 CTR: "",

@@ -7,9 +7,8 @@ function App() {
 
       <div className="overlay">
         <div className="inner">
-          <h3 className="title">Best IceBear PA 2024!</h3>
+          <h3 className="title">List PA Product For CV!</h3>
           <ul className="list">
-
 
             {BestPA.map((month, index) => {
               return (

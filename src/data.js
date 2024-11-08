@@ -43,7 +43,7 @@ const BestPA = [
             },
 
             {
-                path: "/PAForCV/FishIO_Playable_Applovin_Op5_Drag_FGP_EatToBigger.html",
+                path: "/PAForCV/FishIO_Playable_Applovin_Op5_Drag_GP_EatToBigger.html",
                 name: "FishIO_Playable_Applovin_Op5_Drag_GP_EatToBigger",
                 dev: "",
                 impression: "49.720",

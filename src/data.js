@@ -7,7 +7,7 @@ const BestPA = [
         data: [
 
             {
-                path: "/PAForCV/Preview_StickCraft_Playable_Op11_Click_FGP_Fusion.html",
+                path: "/PAForCV/Preview_StickCraft_Playable_Op3_Click_GP_StickSongoku.html",
                 name: "Preview_StickCraft_Playable_Op3_Click_GP_StickSongoku",
                 dev: "",
                 impression: "327.194",

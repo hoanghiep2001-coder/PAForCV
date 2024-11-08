@@ -31,7 +31,7 @@ const BestPA = [
             },
 
             {
-                path: "/PAForCV/DeleteStory_Playable_Op10_Click_GP_Sexy_Store.html",
+                path: "/PAForCV/DeleteStory_Playable_Applovin_Op10_Click_GP_Sexy_Store.html",
                 name: "DeleteStory_Playable_Applovin_Op10_Click_GP_Sexy_Store",
                 dev: "",
                 impression: "1.170.444",

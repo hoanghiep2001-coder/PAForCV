@@ -5,7 +5,17 @@ const BestPA = [
     {
         timeline: "List:",
         data: [
-
+            {
+                path: "/PAForCV/BusSort_PA_06_EN.html",
+                name: "BusSort_PA_06_EN",
+                dev: "",
+                impression: "327.194",
+                CTR: "54.72%",
+                CVR: "9.64%",
+                IVR: "5.24%",
+                net: "Mintegral",
+                updatedDate: "7 - 2024"
+            },
             {
                 path: "/PAForCV/Preview_StickCraft_Playable_Op3_Click_GP_StickSongoku.html",
                 name: "Preview_StickCraft_Playable_Op3_Click_GP_StickSongoku",

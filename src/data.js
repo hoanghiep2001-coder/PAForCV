@@ -6,8 +6,8 @@ const BestPA = [
         timeline: "List:",
         data: [
             {
-                path: "/PAForCV/BusSort_PA_06_EN.html",
-                name: "BusSort_PA_06_EN",
+                path: "/PAForCV/BusSort_PA_06.html",
+                name: "BusSort_PA_06",
                 dev: "",
                 impression: "327.194",
                 CTR: "54.72%",

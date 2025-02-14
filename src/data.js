@@ -75,6 +75,28 @@ const BestPA = [
                 updatedDate: "7 - 2024"
             },
             {
+                path: "/PAForCV/Food_Swept_Playable_Fix_Pyramid.html",
+                name: "Food_Swept_Playable_Fix_Pyramid",
+                dev: "",
+                impression: "327.194",
+                CTR: "54.72%",
+                CVR: "9.64%",
+                IVR: "5.24%",
+                net: "Mintegral",
+                updatedDate: "7 - 2024"
+            },
+            {
+                path: "/PAForCV/Food_Swept_Playable_Fix_Circle.html",
+                name: "Food_Swept_Playable_Fix_Circle",
+                dev: "",
+                impression: "327.194",
+                CTR: "54.72%",
+                CVR: "9.64%",
+                IVR: "5.24%",
+                net: "Mintegral",
+                updatedDate: "7 - 2024"
+            },
+            {
                 path: "/PAForCV/Unimob_PA_test.html",
                 name: "Unimob_PA_test",
                 dev: "",

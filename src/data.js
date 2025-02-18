@@ -63,6 +63,17 @@ const BestPA = [
                 net: "Applovin",
                 updatedDate: "12 - 2023"
             },
+            {
+                path: "/PAForCV/Food_Swept_Playable_Circle_UnityConvertLevel.html",
+                name: "Food_Swept_Playable_Circle_UnityConvertLevel",
+                dev: "",
+                impression: "49.720",
+                CTR: "51.15%",
+                CVR: "8.57%",
+                IVR: "4.28%",
+                net: "Applovin",
+                updatedDate: "12 - 2023"
+            },
             // {
             //     path: "/PAForCV/WinterWolf_IEC_Games_PA_Test.html",
             //     name: "WinterWolf_IEC_Games_PA_Test",
